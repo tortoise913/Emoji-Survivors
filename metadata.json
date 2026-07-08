@@ -1,6 +1,0 @@
-{
-  "name": "Emoji 倖存者",
-  "description": "一款使用 emoji 的類吸血鬼倖存者網頁遊戲，具有升級卡牌選擇功能。",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
